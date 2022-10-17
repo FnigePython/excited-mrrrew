@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "QuiltPlay/README.md"
-hash = "77696cb6de2fc3aac869288efa107a93d276623439bf30f00c3c1a901572d170"
-
-[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
