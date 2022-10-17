@@ -91,11 +91,6 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
-file = "mods/mavm.pw.toml"
-hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
