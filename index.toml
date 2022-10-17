@@ -5,8 +5,18 @@ file = "QuiltPlay/README.md"
 hash = "77696cb6de2fc3aac869288efa107a93d276623439bf30f00c3c1a901572d170"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
 
 [[files]]
@@ -22,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -55,8 +70,23 @@ hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "d9162c1fee7ecd291c3cf3dba08f4a61812db755fd37f6070109b394b2e226b4"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "3fa5439f34ada944b04d1abbe6e78e49ef5f561b336511a2c5cfd85c7ddd1e03"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4c51026ac95600af08a5b1f1d2a380609d0e74f374ce38cfd30e9dbead294838"
 metafile = true
 
 [[files]]
@@ -67,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
 metafile = true
 
 [[files]]
