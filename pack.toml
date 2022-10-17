@@ -1,0 +1,16 @@
+name = "QuiltPlay"
+author = "Fniges + Ringlings"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f3e42df4e3d9ab352be0ac98a7987ea4bdbfef1281f89c5fec6346dfe2e03cb"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.5-beta.6"
+
+[options]
+acceptable-game-versions = "1.18.2"
