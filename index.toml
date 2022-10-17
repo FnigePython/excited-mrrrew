@@ -5,8 +5,23 @@ file = "QuiltPlay/README.md"
 hash = "77696cb6de2fc3aac869288efa107a93d276623439bf30f00c3c1a901572d170"
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "91f992fa8b10ca4533bbf1d9fe579e2dd31dcc7e0500493ec204f839bf23548f"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
 metafile = true
 
 [[files]]
@@ -17,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
@@ -55,6 +75,11 @@ hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
@@ -67,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
 metafile = true
 
 [[files]]
@@ -87,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
 
 [[files]]
@@ -117,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "82a6fac6d426feb02dcae1d1b5a357d4322ba2e2c340e767b542df61cfbf1919"
 metafile = true
 
 [[files]]
