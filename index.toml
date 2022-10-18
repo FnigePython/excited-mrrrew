@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Calio-1.18.2-1.6.0.jar"
+hash = "cb2d6322d6878971275165a0eb26a0a8e2a24cfc17d4639240a230de8e20aef0"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
