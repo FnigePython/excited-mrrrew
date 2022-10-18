@@ -285,11 +285,6 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "82a6fac6d426feb02dcae1d1b5a357d4322ba2e2c340e767b542df61cfbf1919"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0c006409062946ef5d40bbfa4232f01bd7a84690ed274810ebb3c618a184b2fb"
 metafile = true
