@@ -165,11 +165,6 @@ hash = "2e6f19b5ae18be16fa8e447ac0e645f080c957299e721be8dc6fc0f8ddf4286b"
 metafile = true
 
 [[files]]
-file = "mods/dustrial-decor.pw.toml"
-hash = "de4df7a922b703539937862c7ee5323e8b72c2d0ab480da4504be4c8610ce0c6"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
