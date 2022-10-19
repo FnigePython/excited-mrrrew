@@ -1,0 +1,13 @@
+name = "Dynamic Asset Generator"
+filename = "dynamic_asset_generator-fabric-1.18.2-0.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5c5e1304ab77682cb883ed478f998395480608e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3808255
+project-id = 577096

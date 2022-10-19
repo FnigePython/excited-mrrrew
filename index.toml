@@ -145,6 +145,11 @@ hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-asset-generator.pw.toml"
+hash = "64e403e0e26ff37afab520af75ed95db29c3dc3dcbd1522a6d84db56e31b762e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
