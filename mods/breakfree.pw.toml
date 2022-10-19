@@ -1,0 +1,13 @@
+name = "Break Free"
+filename = "breakfree-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xlr5lMDF/versions/1.0.1/breakfree-1.0.1.jar"
+hash-format = "sha1"
+hash = "684fd7b7e8d71139dd373767b247a45a029f5fa1"
+
+[update]
+[update.modrinth]
+mod-id = "Xlr5lMDF"
+version = "WUmDvODT"

@@ -40,6 +40,11 @@ hash = "7dffbff3d9e4c9196319fefa7934cc52b9da32a97b4a1d4df234c354c5222fa8"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "157ed721d6a8b46bb8e47eaf60474a3974fecfb5b6ba8a5350c171caa8bfb316"
+metafile = true
+
+[[files]]
 file = "mods/antishulkerdupe.pw.toml"
 hash = "4e453ab81762f80605f2d85746b3554bff2dc848ae389129c52ab0afbcaba49a"
 metafile = true
@@ -65,6 +70,11 @@ hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
+file = "mods/artisanat.pw.toml"
+hash = "5de92673edf1632d8be681c9beb7c218002a70d2094a2f1d86c75afc4d597cce"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
 metafile = true
@@ -77,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/berries.pw.toml"
+hash = "3de5dcc0ab0604df7de0576caa24753c8d18ecdd5d7bd18d57ab8eb5f0722081"
 metafile = true
 
 [[files]]
@@ -102,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
+metafile = true
+
+[[files]]
+file = "mods/breakfree.pw.toml"
+hash = "85b8b467447ace97ba2e2b3bf929a1abc0362ffbba17e60edd75a3a403ce91d9"
 metafile = true
 
 [[files]]
@@ -210,6 +230,11 @@ hash = "98d1df3299d78eda4698b5f6d04cebcbb5e3a3b146f81ace4d8bfd1a18c9fdf5"
 metafile = true
 
 [[files]]
+file = "mods/half-doors.pw.toml"
+hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
@@ -300,6 +325,11 @@ hash = "2b636ac7b72210d1c1f29944ceb090f5ab879435fa420b92780082b55f93872a"
 metafile = true
 
 [[files]]
+file = "mods/phonos.pw.toml"
+hash = "252cb401805b5bf6181e353669bd682ed7f6170c67ec7ef72fadef8819f59745"
+metafile = true
+
+[[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
 metafile = true
@@ -335,6 +365,11 @@ hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bc1b439bdcd5866fa0eb5ad804692dfd0000e02a3848b49b936cd3c04a2aef7c"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
 metafile = true
@@ -357,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/the-extractinator.pw.toml"
+hash = "83826891d79cd834921ad3d12da6680894c0bd13f88ca9ceece60f9c19359961"
 metafile = true
 
 [[files]]
