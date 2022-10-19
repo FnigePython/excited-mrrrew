@@ -40,11 +40,6 @@ hash = "7dffbff3d9e4c9196319fefa7934cc52b9da32a97b4a1d4df234c354c5222fa8"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "157ed721d6a8b46bb8e47eaf60474a3974fecfb5b6ba8a5350c171caa8bfb316"
-metafile = true
-
-[[files]]
 file = "mods/antishulkerdupe.pw.toml"
 hash = "4e453ab81762f80605f2d85746b3554bff2dc848ae389129c52ab0afbcaba49a"
 metafile = true
@@ -70,11 +65,6 @@ hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
-file = "mods/artisanat.pw.toml"
-hash = "5de92673edf1632d8be681c9beb7c218002a70d2094a2f1d86c75afc4d597cce"
-metafile = true
-
-[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
 metafile = true
@@ -87,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
-metafile = true
-
-[[files]]
-file = "mods/berries.pw.toml"
-hash = "3de5dcc0ab0604df7de0576caa24753c8d18ecdd5d7bd18d57ab8eb5f0722081"
 metafile = true
 
 [[files]]
@@ -182,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
-metafile = true
-
-[[files]]
-file = "mods/decorative.pw.toml"
-hash = "2e6f19b5ae18be16fa8e447ac0e645f080c957299e721be8dc6fc0f8ddf4286b"
 metafile = true
 
 [[files]]
