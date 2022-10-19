@@ -1,0 +1,13 @@
+name = "Fabricated Chisel"
+filename = "chisel-1.4.5+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/1.4.5/chisel-1.4.5%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "dbfe534e98eba05972e86c839108279cdc339cb2"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "nOnXk4UD"

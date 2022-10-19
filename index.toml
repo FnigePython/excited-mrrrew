@@ -40,6 +40,11 @@ hash = "7dffbff3d9e4c9196319fefa7934cc52b9da32a97b4a1d4df234c354c5222fa8"
 metafile = true
 
 [[files]]
+file = "mods/antishulkerdupe.pw.toml"
+hash = "4e453ab81762f80605f2d85746b3554bff2dc848ae389129c52ab0afbcaba49a"
+metafile = true
+
+[[files]]
 file = "mods/arcanus.pw.toml"
 hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
@@ -47,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
 metafile = true
 
 [[files]]
@@ -95,11 +105,6 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
-file = "mods/cammies-minecart-tweaks.pw.toml"
-hash = "79f3286302f5e1f5b72deb24e2425420aad6395f81bdfce80d567c943f68279c"
-metafile = true
-
-[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "9278183949339092056837d262aeb4dec44f788d1e126609ca2704b9f2251f63"
+metafile = true
+
+[[files]]
+file = "mods/chat-coords.pw.toml"
+hash = "51d3b50deff7300865dbf3bac580ced250680759258ef415724b8dc49a28db63"
 metafile = true
 
 [[files]]
@@ -135,6 +145,11 @@ hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "cdbeeb56e330eddb26a960c6240d23ad602717b1e3844deb88660f284c5c15fa"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "1b520d8d4fea8c329d1492b9b8c45377fd24c113273ef2b1668b3b23b927dccd"
 metafile = true
@@ -142,6 +157,16 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/decorative.pw.toml"
+hash = "2e6f19b5ae18be16fa8e447ac0e645f080c957299e721be8dc6fc0f8ddf4286b"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "de4df7a922b703539937862c7ee5323e8b72c2d0ab480da4504be4c8610ce0c6"
 metafile = true
 
 [[files]]
@@ -162,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
 metafile = true
 
 [[files]]
@@ -225,6 +255,11 @@ hash = "b8c6a8b674c85002ba0d4feb98f02522424680d2bffbf68d592d45bcaf382330"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
@@ -232,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "d9162c1fee7ecd291c3cf3dba08f4a61812db755fd37f6070109b394b2e226b4"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "4cf20ed44062d8927230f47c1a9ad220dd5ceef552dec2d6c7a03c944d257b83"
 metafile = true
 
 [[files]]
@@ -265,13 +305,13 @@ hash = "2b636ac7b72210d1c1f29944ceb090f5ab879435fa420b92780082b55f93872a"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-hash = "5173ff9ebba4818c5d59ce93597efc61be6c595735cc2f9a2887f6bfc59bfa46"
+file = "mods/plushie.pw.toml"
+hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
 metafile = true
 
 [[files]]
-file = "mods/portal-cubed.pw.toml"
-hash = "0ff17bd329c299cf4160716dcaf9bb6f06d4ed69fbbf7b78caf94e6181453103"
+file = "mods/polymer.pw.toml"
+hash = "5173ff9ebba4818c5d59ce93597efc61be6c595735cc2f9a2887f6bfc59bfa46"
 metafile = true
 
 [[files]]
@@ -282,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "e25a4b4597ff2053ad012fced6836cc0cc787f4a73b88ad0e5806b2985e7a418"
 metafile = true
 
 [[files]]
@@ -307,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "cd8ce0429f1d4bb4c4ef4fd09a831955da0c4e1310d607bfbe6480fd11866b52"
 metafile = true
 
 [[files]]
