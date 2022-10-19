@@ -1,0 +1,13 @@
+name = "Portal Cubed"
+filename = "portal_cubed-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GUwDZ4ZU/versions/2.2.4%2Bquilt/portal_cubed-2.2.4.jar"
+hash-format = "sha1"
+hash = "c7fb5b9ec8e974dad4e606abeb53a360abcf2097"
+
+[update]
+[update.modrinth]
+mod-id = "GUwDZ4ZU"
+version = "gVuuYflE"

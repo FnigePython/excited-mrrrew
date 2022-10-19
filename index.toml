@@ -20,6 +20,11 @@ hash = "91f992fa8b10ca4533bbf1d9fe579e2dd31dcc7e0500493ec204f839bf23548f"
 metafile = true
 
 [[files]]
+file = "mods/ae2things.pw.toml"
+hash = "990efa2e767c765b86468a0950607ab6711cc8a58a86e50030b132c619da035f"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "373c21a5d84b809b2d643de005eeff29694525ca5ee68d4b61c6aeb16ea3a239"
 metafile = true
@@ -37,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/arcanus.pw.toml"
 hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
 metafile = true
 
 [[files]]
@@ -65,6 +75,11 @@ hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "4f8a5eba4f26778c4720b23b9fdfb65407781bebbace13e7227c42a448ad6287"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "290f2c3aaf3ca913461e42fac7834147896e9d84d742fa73ffdaa231002a6cef"
 metafile = true
@@ -80,6 +95,11 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
+file = "mods/cammies-minecart-tweaks.pw.toml"
+hash = "79f3286302f5e1f5b72deb24e2425420aad6395f81bdfce80d567c943f68279c"
+metafile = true
+
+[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true
@@ -92,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "c72b99357e64c2a9d3c49176b207944eb6d6c42df5ee375d63c1ed800a988390"
 metafile = true
 
 [[files]]
@@ -135,8 +160,18 @@ hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "875e40b94c58b303afd3215b69d66c3062f5b1b2d5643bbdf0f62bc986d6655b"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "33151ae64304b2b7fdb3d4243cf7d6a0dd6d17a700318080b5b3f2ea8e6fa326"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -147,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "98d1df3299d78eda4698b5f6d04cebcbb5e3a3b146f81ace4d8bfd1a18c9fdf5"
 metafile = true
 
 [[files]]
@@ -225,8 +265,18 @@ hash = "4c51026ac95600af08a5b1f1d2a380609d0e74f374ce38cfd30e9dbead294838"
 metafile = true
 
 [[files]]
+file = "mods/petowner.pw.toml"
+hash = "2b636ac7b72210d1c1f29944ceb090f5ab879435fa420b92780082b55f93872a"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "5173ff9ebba4818c5d59ce93597efc61be6c595735cc2f9a2887f6bfc59bfa46"
+metafile = true
+
+[[files]]
+file = "mods/portal-cubed.pw.toml"
+hash = "0ff17bd329c299cf4160716dcaf9bb6f06d4ed69fbbf7b78caf94e6181453103"
 metafile = true
 
 [[files]]
@@ -287,6 +337,16 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0c006409062946ef5d40bbfa4232f01bd7a84690ed274810ebb3c618a184b2fb"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "9c43e2729f64ac838434d547c4a33d50b16b4c13c6365658a4408a37a32d10eb"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "506d7dedae346cdad3e6dbf8b2c538a13123ab057267244e8193b52d939d7bbb"
 metafile = true
 
 [[files]]
