@@ -290,11 +290,6 @@ hash = "b8c6a8b674c85002ba0d4feb98f02522424680d2bffbf68d592d45bcaf382330"
 metafile = true
 
 [[files]]
-file = "mods/malum-quilt.pw.toml"
-hash = "58168b0555e2ff4977a482707eb58fe2c38fd10322ba7a27b00b2866e19a481e"
-metafile = true
-
-[[files]]
 file = "mods/mbembe.pw.toml"
 hash = "0d040d70c0967709f6ec63f94c1b9c0fda09d99697b0397a44ea31c59a301cd0"
 metafile = true
