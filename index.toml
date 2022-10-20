@@ -235,6 +235,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "23ee5f26980fcbb4e3bae2a6a3102e4fafdd0638401acb687f3b3a93cc87a5d4"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api.pw.toml"
 hash = "98d1df3299d78eda4698b5f6d04cebcbb5e3a3b146f81ace4d8bfd1a18c9fdf5"
 metafile = true
