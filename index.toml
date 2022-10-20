@@ -265,11 +265,6 @@ hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
 
 [[files]]
-file = "mods/kibe.pw.toml"
-hash = "3e47e98487168bea70eca4a17fd42530ce9fe4b4e1c62d882674e51d181c369a"
-metafile = true
-
-[[files]]
 file = "mods/kiln.pw.toml"
 hash = "f7b4ae928f8e8edd8706095911c1bf82e54b766f7d8bd57b5ae557e7bdc0a83e"
 metafile = true
@@ -292,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "b8c6a8b674c85002ba0d4feb98f02522424680d2bffbf68d592d45bcaf382330"
-metafile = true
-
-[[files]]
-file = "mods/mbembe.pw.toml"
-hash = "0d040d70c0967709f6ec63f94c1b9c0fda09d99697b0397a44ea31c59a301cd0"
 metafile = true
 
 [[files]]
@@ -395,11 +385,6 @@ hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
 metafile = true
 
 [[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "34cf18ec0d7f3a99943590207b3a9fae776e8caae7b05b48641727600c9efa69"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bc1b439bdcd5866fa0eb5ad804692dfd0000e02a3848b49b936cd3c04a2aef7c"
 metafile = true
@@ -412,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "ea8fc09d5507b5b63c7f4743531d46d07f572c15833a1f94b94bccd346d976c9"
 metafile = true
 
 [[files]]
