@@ -5,6 +5,11 @@ file = "mods/Calio-1.18.2-1.6.0.jar"
 hash = "cb2d6322d6878971275165a0eb26a0a8e2a24cfc17d4639240a230de8e20aef0"
 
 [[files]]
+file = "mods/ad-astra-fabric.pw.toml"
+hash = "6401feb0ee57da86cdb306985fb03b15a8b58bbb294853477d19b52100098097"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -95,6 +100,11 @@ hash = "290f2c3aaf3ca913461e42fac7834147896e9d84d742fa73ffdaa231002a6cef"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "2ec5048318cbbf33f0c4b12fbe7058d47dce50a19854bee326cbbd5272cb3712"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
 metafile = true
@@ -110,8 +120,18 @@ hash = "85b8b467447ace97ba2e2b3bf929a1abc0362ffbba17e60edd75a3a403ce91d9"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "1c22e5fa95bee0f58c6fb2a3ead7631d8a354d027e827c7e463703fc15cacd13"
+metafile = true
+
+[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
+metafile = true
+
+[[files]]
+file = "mods/can-you-trash-it.pw.toml"
+hash = "29c7d3d721cbf685b5671e12ab2de3462b2f441b83860a2723f336a63c31cea6"
 metafile = true
 
 [[files]]
@@ -200,6 +220,11 @@ hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
+file = "mods/fabrication.pw.toml"
+hash = "55e61441d27635ec44bbb45d8b0e09037f4b95efcae1a0b101605424e15122e7"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
@@ -235,6 +260,11 @@ hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "3e47e98487168bea70eca4a17fd42530ce9fe4b4e1c62d882674e51d181c369a"
+metafile = true
+
+[[files]]
 file = "mods/kiln.pw.toml"
 hash = "f7b4ae928f8e8edd8706095911c1bf82e54b766f7d8bd57b5ae557e7bdc0a83e"
 metafile = true
@@ -257,6 +287,16 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "b8c6a8b674c85002ba0d4feb98f02522424680d2bffbf68d592d45bcaf382330"
+metafile = true
+
+[[files]]
+file = "mods/malum-quilt.pw.toml"
+hash = "58168b0555e2ff4977a482707eb58fe2c38fd10322ba7a27b00b2866e19a481e"
+metafile = true
+
+[[files]]
+file = "mods/mbembe.pw.toml"
+hash = "0d040d70c0967709f6ec63f94c1b9c0fda09d99697b0397a44ea31c59a301cd0"
 metafile = true
 
 [[files]]
@@ -315,6 +355,11 @@ hash = "252cb401805b5bf6181e353669bd682ed7f6170c67ec7ef72fadef8819f59745"
 metafile = true
 
 [[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+hash = "2a4a997b1832acda89e4612c3f12450a8c71da26ddcaeab2a6a77966ada5b545"
+metafile = true
+
+[[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
 metafile = true
@@ -350,6 +395,11 @@ hash = "92c96cc5f76249f62fb2da230fc1b8e1e5cb63c499fcc37ec87c14f6a5def342"
 metafile = true
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "34cf18ec0d7f3a99943590207b3a9fae776e8caae7b05b48641727600c9efa69"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bc1b439bdcd5866fa0eb5ad804692dfd0000e02a3848b49b936cd3c04a2aef7c"
 metafile = true
@@ -362,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "ea8fc09d5507b5b63c7f4743531d46d07f572c15833a1f94b94bccd346d976c9"
 metafile = true
 
 [[files]]

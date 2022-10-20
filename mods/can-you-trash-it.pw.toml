@@ -1,0 +1,13 @@
+name = "Can You Trash It?"
+filename = "cyti-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y9vogxIg/versions/1.0.3/cyti-1.0.3.jar"
+hash-format = "sha1"
+hash = "177e13d2b4a1e31d51016c7cd031f5af5b378293"
+
+[update]
+[update.modrinth]
+mod-id = "Y9vogxIg"
+version = "wwpfyy4d"

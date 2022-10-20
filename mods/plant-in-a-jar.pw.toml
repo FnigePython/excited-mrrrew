@@ -1,0 +1,13 @@
+name = "Plant In A Jar"
+filename = "plantinajar-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6T8A0G0v/versions/2.3.1/plantinajar-2.3.1.jar"
+hash-format = "sha1"
+hash = "a68dfd7ec775d59b1220a4e0abafe08677bd3bd2"
+
+[update]
+[update.modrinth]
+mod-id = "6T8A0G0v"
+version = "OrgGdTgu"
