@@ -70,6 +70,11 @@ hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "2652d5ad47a65a1788f3be0d37df4fe2c6af5cb19e35ccdd0c11c3c0a46634a3"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "a84f8cc8ef98c109ab2e8601f03d271b6ad3a115328382b61b4c54158dbf7385"
 metafile = true
 
 [[files]]
@@ -160,6 +170,16 @@ hash = "514e802a81098dfcde8149f2056c04bd5da31f7b5b463c93eaeef394cac070e3"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "b15799f8cb3fd3ae42abb923edbb8eb60efc890e4cc26091e2b8a33947b4f9a0"
+metafile = true
+
+[[files]]
+file = "mods/create-crystal-clear-fabric.pw.toml"
+hash = "6e34e6b12a4140c3a673fcfeef6fbd5dfeb65eb5019d5ef42b89ffc58197fec5"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
@@ -205,8 +225,18 @@ hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
+file = "mods/expanded-caves.pw.toml"
+hash = "f69f2b5e2104fa79f2f3fc88fce424bd4f67c495f7577ad462fca14d0fe7499e"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "ebd5bd0ecd016ec3de22588c908d712310338f3bbcd4891aff04923fb83f6a09"
 metafile = true
 
 [[files]]
@@ -247,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/half-doors.pw.toml"
 hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "7cbd5497749ea5d4afb2bc747841ca858a81acd36ab2bfec84acd33826dd1cda"
 metafile = true
 
 [[files]]
@@ -325,6 +360,11 @@ hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "975c10ed9bc04384e907de186036925c87c65968870f6f5507cdc4741615953c"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
@@ -357,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "5173ff9ebba4818c5d59ce93597efc61be6c595735cc2f9a2887f6bfc59bfa46"
+metafile = true
+
+[[files]]
+file = "mods/projectsavethepets.pw.toml"
+hash = "baa9c26ccf331aedeb39feb74c1b933901c7a3d10812c25e79168933a1eaff95"
 metafile = true
 
 [[files]]
@@ -417,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/the-extractinator.pw.toml"
 hash = "83826891d79cd834921ad3d12da6680894c0bd13f88ca9ceece60f9c19359961"
+metafile = true
+
+[[files]]
+file = "mods/tool-leveling.pw.toml"
+hash = "2716f3a6515917060471b62d353e4decba3530e6960324d282b488d4ca67ee2c"
 metafile = true
 
 [[files]]
