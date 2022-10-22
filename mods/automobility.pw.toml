@@ -1,0 +1,13 @@
+name = "Automobility"
+filename = "automobility-0.2.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/0.2.1%2B1.18.2/automobility-0.2.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "0dbcfd7f9597a89fa682af0ffd7b8129bb7300f7"
+
+[update]
+[update.modrinth]
+mod-id = "rqIsPf9F"
+version = "AYSLOdYB"

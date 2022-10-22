@@ -15,11 +15,6 @@ hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "91f992fa8b10ca4533bbf1d9fe579e2dd31dcc7e0500493ec204f839bf23548f"
 metafile = true
@@ -72,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "2652d5ad47a65a1788f3be0d37df4fe2c6af5cb19e35ccdd0c11c3c0a46634a3"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "21e531f612e8be7a1c93bafaa74a361c573748cf74b6c7738ead9092cdc4412c"
 metafile = true
 
 [[files]]
@@ -170,8 +170,18 @@ hash = "514e802a81098dfcde8149f2056c04bd5da31f7b5b463c93eaeef394cac070e3"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "0e8218178acb657b621014e3d0bbf1ce15b5b1b89e78541ad446713318adf53f"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "b15799f8cb3fd3ae42abb923edbb8eb60efc890e4cc26091e2b8a33947b4f9a0"
+metafile = true
+
+[[files]]
+file = "mods/cpm-fabric.pw.toml"
+hash = "df356cf96801e87f446f6c7cca982025c2e675fd761dfa44e7b39fc197e8cf43"
 metafile = true
 
 [[files]]
@@ -195,8 +205,23 @@ hash = "cdbeeb56e330eddb26a960c6240d23ad602717b1e3844deb88660f284c5c15fa"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-chocolaterie.pw.toml"
+hash = "8fac83a869750047b9e1c38e281a2089c2449d2180011d5bc7d2fd3422589ac0"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "23a87ec473bfb09e0624b4ef0fdec88f321a8d1f0854566ce74e8697ec34a850"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "1b520d8d4fea8c329d1492b9b8c45377fd24c113273ef2b1668b3b23b927dccd"
+metafile = true
+
+[[files]]
+file = "mods/datapackportals.pw.toml"
+hash = "b1230ffe42ff60afa50f2734ae9d3f02e47043a9ce30b68927b88db8cb8d10d9"
 metafile = true
 
 [[files]]
@@ -207,6 +232,21 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "cda992723e517f1542bbd48b3b825dea548d10e21b747060c1a3f0f4f5e8c95e"
+metafile = true
+
+[[files]]
+file = "mods/ductwork.pw.toml"
+hash = "806f96d5bd68b1c31df65748273c1a27569f7975a4a4a4cba1db168aa4bc41a5"
+metafile = true
+
+[[files]]
+file = "mods/dyeable-fishing-lines.pw.toml"
+hash = "135d8d9e489219a46e6412f8da8a2a9acc4bb713ea428e90114c9867479443a0"
 metafile = true
 
 [[files]]
@@ -365,6 +405,11 @@ hash = "975c10ed9bc04384e907de186036925c87c65968870f6f5507cdc4741615953c"
 metafile = true
 
 [[files]]
+file = "mods/palette256.pw.toml"
+hash = "3aa6de829dbaaee8b64fae6d1f9706b9cfe8708f3710efdc05142f9a9a7c09f2"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
@@ -455,6 +500,16 @@ hash = "cd8ce0429f1d4bb4c4ef4fd09a831955da0c4e1310d607bfbe6480fd11866b52"
 metafile = true
 
 [[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "fe89f6bf7cc807cdfcee3aee51f4ad3511fd297ed63fc8583a204baa35a2e800"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "d836cda33e7339335e220a8e23d1e21cd58a4d535292669c76bda608e2b54c50"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
@@ -465,11 +520,6 @@ hash = "83826891d79cd834921ad3d12da6680894c0bd13f88ca9ceece60f9c19359961"
 metafile = true
 
 [[files]]
-file = "mods/tool-leveling.pw.toml"
-hash = "2716f3a6515917060471b62d353e4decba3530e6960324d282b488d4ca67ee2c"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
 metafile = true
@@ -477,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "b032c59fb9586829fc4477fef5d7a191699b13f97d78fbaf8c2b0185d95a63cc"
+metafile = true
+
+[[files]]
+file = "mods/trees-do-not-float.pw.toml"
+hash = "b02b2df1bcc4e86dd47cf9f5969a92fc004eedc39f36d7109601f9e46304ca67"
 metafile = true
 
 [[files]]
