@@ -225,11 +225,6 @@ hash = "cdbeeb56e330eddb26a960c6240d23ad602717b1e3844deb88660f284c5c15fa"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-chocolaterie.pw.toml"
-hash = "8fac83a869750047b9e1c38e281a2089c2449d2180011d5bc7d2fd3422589ac0"
-metafile = true
-
-[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "1b520d8d4fea8c329d1492b9b8c45377fd24c113273ef2b1668b3b23b927dccd"
 metafile = true
