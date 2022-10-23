@@ -1,0 +1,13 @@
+name = "Areas"
+filename = "areas-fabric_1.18.2-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/MWeGg2cw/areas-fabric_1.18.2-3.2.jar"
+hash-format = "sha1"
+hash = "c14928d13ddaf50c1d3bb884a724c9628a635a5c"
+
+[update]
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "MWeGg2cw"

@@ -1,0 +1,13 @@
+name = "Path under fence gates"
+filename = "pathunderfencegates-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MD6yYHfJ/versions/50kf7Wrc/pathunderfencegates-1.2.1.jar"
+hash-format = "sha1"
+hash = "9b8976dbe929a744bfdb2baba5382692474a83df"
+
+[update]
+[update.modrinth]
+mod-id = "MD6yYHfJ"
+version = "50kf7Wrc"
