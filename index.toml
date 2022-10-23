@@ -520,6 +520,11 @@ hash = "83826891d79cd834921ad3d12da6680894c0bd13f88ca9ceece60f9c19359961"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "0c0d90c3ef2e8354560e2c2d606813f073a946451939d5cc03cf08a031b2ec7c"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
 metafile = true
