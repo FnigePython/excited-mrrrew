@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
@@ -307,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "23ee5f26980fcbb4e3bae2a6a3102e4fafdd0638401acb687f3b3a93cc87a5d4"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders-fabric.pw.toml"
+hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
 
 [[files]]
@@ -512,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/the-extractinator.pw.toml"
 hash = "83826891d79cd834921ad3d12da6680894c0bd13f88ca9ceece60f9c19359961"
+metafile = true
+
+[[files]]
+file = "mods/thonkutil.pw.toml"
+hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
 metafile = true
 
 [[files]]
