@@ -320,11 +320,6 @@ hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
 metafile = true
 
 [[files]]
-file = "mods/hephaestus.pw.toml"
-hash = "7cbd5497749ea5d4afb2bc747841ca858a81acd36ab2bfec84acd33826dd1cda"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
