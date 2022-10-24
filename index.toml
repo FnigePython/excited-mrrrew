@@ -495,11 +495,6 @@ hash = "2b636ac7b72210d1c1f29944ceb090f5ab879435fa420b92780082b55f93872a"
 metafile = true
 
 [[files]]
-file = "mods/phonos.pw.toml"
-hash = "252cb401805b5bf6181e353669bd682ed7f6170c67ec7ef72fadef8819f59745"
-metafile = true
-
-[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "5b375d0099feaceff6b88827f22321790900c24f83184b92d1dab89d224c7cc9"
 metafile = true
