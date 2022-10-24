@@ -425,6 +425,11 @@ hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "49a18ce708eb0ba691489759e6da4000458ee444e4caf8b99ac660e88d8f0039"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/thonkutil.pw.toml"
 hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "e2961dc892d0bd3471f640451df066d748152531f4d2ae620a835aeb3c574f6a"
 metafile = true
 
 [[files]]
