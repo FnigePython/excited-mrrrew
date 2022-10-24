@@ -320,11 +320,6 @@ hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-mushrooms.pw.toml"
-hash = "a897e5231f592352693862d4595a95b1fac25445ee4e70842c5e1cd32c74d05c"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -362,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "ab203a6341b5c9299542d974c451ce6737db8969486ecd63a621ff6fdca06384"
 metafile = true
 
 [[files]]
@@ -547,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/plushie.pw.toml"
 hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
-metafile = true
-
-[[files]]
-file = "mods/pollen.pw.toml"
-hash = "04b87148fea135de8be6d3151eedc28d78a60fa47443068107b4f117df97eaef"
 metafile = true
 
 [[files]]
