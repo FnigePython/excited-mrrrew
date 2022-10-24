@@ -140,6 +140,11 @@ hash = "c72316c402b15d0cf555c912d711aa75a7164947515e3dbe05c9f083766fccce"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
@@ -230,6 +235,11 @@ hash = "1b520d8d4fea8c329d1492b9b8c45377fd24c113273ef2b1668b3b23b927dccd"
 metafile = true
 
 [[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "e3e9d5514c419f34242839e3cdf0b15aaaf92d6c685cb03c4d6c7130f09cbc76"
+metafile = true
+
+[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "b1230ffe42ff60afa50f2734ae9d3f02e47043a9ce30b68927b88db8cb8d10d9"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
 metafile = true
 
 [[files]]
@@ -375,6 +390,36 @@ hash = "b8c6a8b674c85002ba0d4feb98f02522424680d2bffbf68d592d45bcaf382330"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "32e23b7b551730eb419c821d1f23cd363bd59f5a096ee7b360077501010f5b2f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "65bf63f09b7a2958e11bc50b48f09c619acc33b9f22d59803566b5196254cdf2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f19df36997ae32ae994f423cbf755b66ca440f88153811e4562eab8af80867b8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "91448b968ad8b5160cd440c046fd8a592b213afdcba6b906bc1441901827cde4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "ca1411ddd60cfb821ed8bb7c9dda1d686d84147f01bafa9f35cc35b41115c1e3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "efae4449e802f00e3dd79446adcb305d43f3f2471e48ebde9e08ef531d95b434"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
 metafile = true
@@ -387,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "d9162c1fee7ecd291c3cf3dba08f4a61812db755fd37f6070109b394b2e226b4"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
 metafile = true
 
 [[files]]
@@ -450,6 +500,11 @@ hash = "252cb401805b5bf6181e353669bd682ed7f6170c67ec7ef72fadef8819f59745"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "5b375d0099feaceff6b88827f22321790900c24f83184b92d1dab89d224c7cc9"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "2a4a997b1832acda89e4612c3f12450a8c71da26ddcaeab2a6a77966ada5b545"
 metafile = true
@@ -492,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "5e98198bbc6e9dcdbabfa02da042032bbe42c4c6e75488e279d7babb23296999"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
 metafile = true
 
 [[files]]
