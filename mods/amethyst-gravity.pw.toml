@@ -1,0 +1,13 @@
+name = "Amethyst Gravity"
+filename = "amethyst-gravity-1.1.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZwZDYoIk/versions/3alO3r4p/amethyst-gravity-1.1.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "6f00680d117ec06c4cac8cb3ea2e46aa752b292d"
+
+[update]
+[update.modrinth]
+mod-id = "ZwZDYoIk"
+version = "3alO3r4p"

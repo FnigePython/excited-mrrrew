@@ -2,7 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8b5c528f80810956f6cf332483582f29f746c4a048803e30c4d19d377171f1e4"
+hash = "71fe39bcef63fdd51bb7afea22a43196dd01049c9b6f5d3105d51decb7484ccd"
+
+[[files]]
+file = "mods/amethyst-gravity.pw.toml"
+hash = "e43e3579ce6f09bfbc87a2fcab9db4d333be57120aefe0ff153a8d09ecacc8fb"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "4514d9bd059da42a28d1f14f57890ea36c52726ea4c7200f3f12ce9c8cde2a7b"
+metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"

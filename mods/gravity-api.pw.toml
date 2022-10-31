@@ -1,0 +1,13 @@
+name = "Gravity API"
+filename = "gravity-api-0.7.20-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ex1ynKrU/versions/o1e5NTiO/gravity-api-0.7.20-1.19.2.jar"
+hash-format = "sha1"
+hash = "99f94fb407ab27f75d91c86fb201db29ac77d8a8"
+
+[update]
+[update.modrinth]
+mod-id = "Ex1ynKrU"
+version = "o1e5NTiO"
