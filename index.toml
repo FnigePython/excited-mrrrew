@@ -5,6 +5,16 @@ file = "README.md"
 hash = "8b5c528f80810956f6cf332483582f29f746c4a048803e30c4d19d377171f1e4"
 
 [[files]]
+file = "mods/amethyst-gravity.pw.toml"
+hash = "9a916afffaacf4df324917620dc29d8fbb4488ad143029113adade8386f7be87"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "66b35a5ea73c38abce87bc8f383b2b026c6efa47d3372c6516fd58c30d2cd96d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
