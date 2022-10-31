@@ -1,0 +1,13 @@
+name = "Erroring Entity Remover"
+filename = "Erroring-Entity-Remover-Fabric-1.0.3+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9q1j6H6P/versions/1.0.3%2B1.19/Erroring-Entity-Remover-Fabric-1.0.3%2B1.19.jar"
+hash-format = "sha1"
+hash = "5a60b47338d368c72ea2c9dd8afcb3700927c929"
+
+[update]
+[update.modrinth]
+mod-id = "9q1j6H6P"
+version = "x8fA9pmn"

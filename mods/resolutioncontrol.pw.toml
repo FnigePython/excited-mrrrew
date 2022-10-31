@@ -1,0 +1,13 @@
+name = "ResolutionControl+"
+filename = "resolution-control-plus-1.19.x-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7b9e35ebb006b9ea02f973af359414c53c2fd4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3899406
+project-id = 446974

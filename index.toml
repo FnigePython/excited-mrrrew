@@ -11,8 +11,18 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/amethyst-gravity.pw.toml"
 hash = "e43e3579ce6f09bfbc87a2fcab9db4d333be57120aefe0ff153a8d09ecacc8fb"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "a95722a1164bcc8feba04a737e37502dc22d393c3c24149ae1a71d901328d546"
 metafile = true
 
 [[files]]
@@ -23,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "bf9c6667b396a24d340e90311be9001817e2942b9eb693737473db6a5ac1257d"
 metafile = true
 
 [[files]]
@@ -48,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
+metafile = true
+
+[[files]]
+file = "mods/erroring-entity-remover.pw.toml"
+hash = "d1c9a9108d155a38afdc119035b582d1e1bbcbaa1106fd7f91a5550bfcbc564e"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
 metafile = true
 
 [[files]]
@@ -116,6 +146,11 @@ hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "7505d1cbb6304cfc22f5fd1b6ebe1f20e72ac30e027793663b50349eb36f3392"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -128,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "82fcfc283cb7f4c3d8446d6aae24fec5c191269f1e67668cd01237be3c20ebe4"
+metafile = true
+
+[[files]]
+file = "mods/resolutioncontrol.pw.toml"
+hash = "df61d7d40da9e313198934c3b2bf4e1cdc617b94d1ef93c32b694c73e6318ed1"
 metafile = true
 
 [[files]]
@@ -153,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.pw.toml"
+hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
 metafile = true
 
 [[files]]
