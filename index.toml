@@ -5,8 +5,18 @@ file = "README.md"
 hash = "8b5c528f80810956f6cf332483582f29f746c4a048803e30c4d19d377171f1e4"
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
