@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-gravity.pw.toml"
-hash = "e43e3579ce6f09bfbc87a2fcab9db4d333be57120aefe0ff153a8d09ecacc8fb"
+hash = "9a916afffaacf4df324917620dc29d8fbb4488ad143029113adade8386f7be87"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "4514d9bd059da42a28d1f14f57890ea36c52726ea4c7200f3f12ce9c8cde2a7b"
+hash = "66b35a5ea73c38abce87bc8f383b2b026c6efa47d3372c6516fd58c30d2cd96d"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "82fcfc283cb7f4c3d8446d6aae24fec5c191269f1e67668cd01237be3c20ebe4"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
