@@ -1,0 +1,13 @@
+name = "Allium Peripherals"
+filename = "allium_peripherals-0.3.4+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0ocMeiw/versions/0.3.4/allium_peripherals-0.3.4%2B1.19.jar"
+hash-format = "sha1"
+hash = "253d60ce1b066de14d069a1862780f0a51e20a2d"
+
+[update]
+[update.modrinth]
+mod-id = "m0ocMeiw"
+version = "WZl4o4NY"

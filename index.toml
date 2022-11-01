@@ -6,6 +6,16 @@ hash = "ee594d77a6bf804bece719158860532f059ecb4181d8740d16e73e0f19d8415e"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
+metafile = true
+
+[[files]]
+file = "mods/allium-peripherals.pw.toml"
+hash = "35b7bb4a677f255dac8f5628e2fc1b320e765c904e41d284798ea99c654a1799"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "4dc4e6ae8d1b5731e2b0e143e5dee5357dd5a7a34c35d0a21644c7c500125bd1"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/amethyst-gravity.pw.toml"
 hash = "9a916afffaacf4df324917620dc29d8fbb4488ad143029113adade8386f7be87"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "38c502f5300f60ee40dac2eacfcc320714e1cf21262d9e48cdccaf0d239de401"
 metafile = true
 
 [[files]]
@@ -36,8 +51,13 @@ hash = "33980d424791a466be697577b8b9fa2404414f8480ef85b88c5855d986eb2272"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -71,8 +91,23 @@ hash = "3f311de924f68ae3d0599c4eb5d32c72b8791892d15dc14475f0cf3ef510bdbb"
 metafile = true
 
 [[files]]
+file = "mods/emicompat.pw.toml"
+hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+metafile = true
+
+[[files]]
 file = "mods/erroring-entity-remover.pw.toml"
 hash = "d1c9a9108d155a38afdc119035b582d1e1bbcbaa1106fd7f91a5550bfcbc564e"
+metafile = true
+
+[[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "efb070639ab54056b420e3328dc8afeb2d7bb3db928a03b30fccf8269a27f5c9"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "acc305f08832575f45e56854ebba00e0601d1d85b386fcaa8a62fd06b1d700e4"
 metafile = true
 
 [[files]]
@@ -211,6 +246,16 @@ hash = "7d52a2a2df1cd0315f43b004101f8e8e7157effcea0b03375e1b16cf088f0d32"
 metafile = true
 
 [[files]]
+file = "mods/windchimes.pw.toml"
+hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c2b83e53128b7dfc19ec634fc5b359dc2affdace1d4ab03e18d19d4ac34cabd5"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "bd55e848e4cf7a98aad647b72c1fb174bce58be740b6a5d782622e23919098bb"
 metafile = true
