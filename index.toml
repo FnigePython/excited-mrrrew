@@ -131,6 +131,11 @@ hash = "b16ebfe8a98659a29b9102ee10530b16b9d635a9943e12d429fd967dd5584031"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
