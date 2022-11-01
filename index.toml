@@ -11,6 +11,11 @@ hash = "507eeaf95096d3868c75b510670cafc125aea702ee79dcd5eba5a48f217e6a58"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -93,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/erroring-entity-remover.pw.toml"
 hash = "d1c9a9108d155a38afdc119035b582d1e1bbcbaa1106fd7f91a5550bfcbc564e"
-metafile = true
-
-[[files]]
-file = "mods/excorrelation.pw.toml"
-hash = "efb070639ab54056b420e3328dc8afeb2d7bb3db928a03b30fccf8269a27f5c9"
 metafile = true
 
 [[files]]
@@ -253,9 +253,4 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
-metafile = true
-
-[[files]]
-file = "mods/yttr.pw.toml"
-hash = "bd55e848e4cf7a98aad647b72c1fb174bce58be740b6a5d782622e23919098bb"
 metafile = true
