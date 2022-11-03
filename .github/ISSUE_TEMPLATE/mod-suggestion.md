@@ -1,7 +1,7 @@
 ---
 name: Mod Suggestion
 about: Suggest a mod here
-title: ''
+title: "[Mod Request]"
 labels: Mod Suggestion
 assignees: ''
 
