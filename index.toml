@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/config-tweaks.md"
+hash = "40bac0bd32914eda8f920637506b979abae738175e256a5546e43807ef1120de"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/mod-suggestion.md"
+hash = "7c3e2aa0d8c212ba3b08d1edcb4e9425ae1e6096751268fd8099c27c5913c622"
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -83,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
-metafile = true
-
-[[files]]
-file = "mods/diggus-maximus.pw.toml"
-hash = "714fcc5e778a6e8d18ddbe635604717109cd8cb2d7ba7a1d1a50354c97c5507a"
 metafile = true
 
 [[files]]
