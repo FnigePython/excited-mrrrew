@@ -176,11 +176,6 @@ hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
-file = "mods/mealapi.pw.toml"
-hash = "52e30de45d677c864cca9b37357b7b9d16d73947d21f8ecba2df705f820fdb99"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -227,11 +222,6 @@ hash = "958c6e56d81a27c6165a4e80117d763a85940caaebdc9ce965b88910bce1714b"
 [[files]]
 file = "mods/resolutioncontrol.pw.toml"
 hash = "df61d7d40da9e313198934c3b2bf4e1cdc617b94d1ef93c32b694c73e6318ed1"
-metafile = true
-
-[[files]]
-file = "mods/sandwichable.pw.toml"
-hash = "c14b24e13f6b88296b50a8e67ab249b7e89c826339859ac403363b0644e8bb70"
 metafile = true
 
 [[files]]
