@@ -36,6 +36,11 @@ hash = "38c502f5300f60ee40dac2eacfcc320714e1cf21262d9e48cdccaf0d239de401"
 metafile = true
 
 [[files]]
+file = "mods/attraction.pw.toml"
+hash = "74755fb9e788f7a92e9bf68e71afbddf4a95f168f05572e6893411b90ac48d50"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "a95722a1164bcc8feba04a737e37502dc22d393c3c24149ae1a71d901328d546"
 metafile = true
@@ -66,6 +71,16 @@ hash = "bf9c6667b396a24d340e90311be9001817e2942b9eb693737473db6a5ac1257d"
 metafile = true
 
 [[files]]
+file = "mods/compressed-items.pw.toml"
+hash = "544d3ba2eb652c716aa49f6b4f92d7d0caa1077cf1011c824e31ce018bb19256"
+metafile = true
+
+[[files]]
+file = "mods/compressed.pw.toml"
+hash = "25461b0119db23d091b96cd487f8661624460cadd5ce5791404bd44f2cc133d5"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/emicompat.pw.toml"
 hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
+metafile = true
+
+[[files]]
+file = "mods/engination.pw.toml"
+hash = "8dc5e3aee87a1e2389fed43af22b8723f79a8acfa42cead83d12a4c9c8bb9269"
 metafile = true
 
 [[files]]
@@ -161,6 +181,11 @@ hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
+file = "mods/mealapi.pw.toml"
+hash = "52e30de45d677c864cca9b37357b7b9d16d73947d21f8ecba2df705f820fdb99"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -207,6 +232,11 @@ hash = "958c6e56d81a27c6165a4e80117d763a85940caaebdc9ce965b88910bce1714b"
 [[files]]
 file = "mods/resolutioncontrol.pw.toml"
 hash = "df61d7d40da9e313198934c3b2bf4e1cdc617b94d1ef93c32b694c73e6318ed1"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "c14b24e13f6b88296b50a8e67ab249b7e89c826339859ac403363b0644e8bb70"
 metafile = true
 
 [[files]]

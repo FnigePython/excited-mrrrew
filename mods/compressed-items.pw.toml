@@ -1,0 +1,13 @@
+name = "Compressed Items"
+filename = "compressed_items-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oSvtANfg/versions/uC7wWsDE/compressed_items-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "ada3905e10f3a3d180e39efa129e3f0f767771a0"
+
+[update]
+[update.modrinth]
+mod-id = "oSvtANfg"
+version = "uC7wWsDE"
