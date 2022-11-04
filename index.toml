@@ -201,6 +201,10 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
+file = "mods/refinedstorage2-platform-fabric-2.0.0-milestone.2.4.jar"
+hash = "958c6e56d81a27c6165a4e80117d763a85940caaebdc9ce965b88910bce1714b"
+
+[[files]]
 file = "mods/resolutioncontrol.pw.toml"
 hash = "df61d7d40da9e313198934c3b2bf4e1cdc617b94d1ef93c32b694c73e6318ed1"
 metafile = true
