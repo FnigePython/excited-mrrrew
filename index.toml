@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/config-tweaks.md"
-hash = "40bac0bd32914eda8f920637506b979abae738175e256a5546e43807ef1120de"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/mod-suggestion.md"
-hash = "7c3e2aa0d8c212ba3b08d1edcb4e9425ae1e6096751268fd8099c27c5913c622"
-
-[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
