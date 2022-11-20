@@ -5,7 +5,10 @@
   embeds:
     - title: Welcome to MinePlay
       description: <:catstare:1043497784113901628>
-      color: 0x355596
+      color: 0x469be3
+
+- type: text
+  text: https://cdn.discordapp.com/attachments/785075539085230090/1043828026879778836/Untitled.png
 
 - type: rules
 
