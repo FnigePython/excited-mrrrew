@@ -1,11 +1,36 @@
 # Based on Quilt's welcome YAML file (This I wish was easier)
 
+- type: text
+  text: https://cdn.discordapp.com/attachments/863707104903561216/964992553155981362/community-header.png
+
 - type: embed
 
   embeds:
-    - title: Welcome to MinePlay
-      description: <:catstare:1043497784113901628>
-#      color: 0x33d323
+    - title: Welcome to The Quilt Community
+
+      description: >
+        Welcome to The Quilt Community, the official community Discord server for The Quilt Project.
+        The Quilt Project is an open-source, community-driven modding toolchain designed primarily for Minecraft.
+        By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain
+        with an open ecosystem.
+        Quilt is a project that was born out of a need for change in the Minecraft modding ecosystem. Our teams contain
+        many experienced members of the modding community, providing a level of familiarity that helps us to avoid the
+        mistakes of the past – whether those mistakes relate to community management, diversity and inclusivity, project
+        governance or transparency. For more information on how we hope to do this,
+        [please see our "about" pages](https://quiltmc.org/about/).
+        Before you get started, **please make sure to review our [rules](https://quiltmc.org/community) and
+        [Code of Conduct](https://quiltmc.org/community/code-of-conduct).** We also recommend taking a look at our
+        [guide for newcomers](https://quiltmc.org/about/newcomer-guide/).
+        We hope you enjoy your time with us!
+    - title: Quilt Development
+
+      thumbnail:
+        url: https://raw.githubusercontent.com/QuiltMC/art/master/brand/1024png/quilt_toolchain_logo_dark.png
+
+      description: >
+        If you're interested in seeing how Quilt is developed, or helping us by contributing to Quilt yourself, then
+        please feel free to join [the Toolchain Discord server](https://discord.gg/afZYcQpbwv)!
+
 
 #- type: rules
 
