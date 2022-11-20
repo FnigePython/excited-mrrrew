@@ -1,4 +1,4 @@
-# Based on Quilt's welcome YAML file (This I wish was easier)
+# Based on (and yoinks from (shhh)) Quilt's welcome YAML file and their rules. Given this server stems from quilt, it makes sense
 
 - type: embed
 
@@ -13,8 +13,26 @@
 - type: rules
 
   rules:
-    Follow Quilt's Community Rules: >
-      Everyone is expected to read and follow [Quilt's Code of Conduct](https://quiltmc.org/community/code-of-conduct) and their [NSFW Content Policy](https://quiltmc.org/community/nsfw-policy/)
+    1. Follow Quilt's Community Rules: >
+      Everyone is expected to read and follow [Quilt's Code of Conduct](https://quiltmc.org/community/code-of-conduct) and their [NSFW Content Policy.](https://quiltmc.org/community/nsfw-policy/)
 
-    Follow Discord's Rules: >
-      Everyone is expected to read and follow [Discord's Community Guidelines](https://discord.com/guidelines) and their [Terms of Service](https://discord.com/terms)
+    2. Follow Discord's Rules: >
+      Everyone is expected to read and follow [Discord's Community Guidelines](https://discord.com/guidelines) and their [Terms of Service.](https://discord.com/terms)
+
+    3. Try to speak English: >
+      The common language in our community is English, but we understand that not everyone speaks English at the same level. Try to speak English to the best of your ability, and don't worry if you need to use translation tools. We will not tolerate making fun of people for poor English.
+
+    4. Don't spam: >
+      Don't spam our channels or users, and don't advertise your projects outside of the relevant showcase channels.
+
+    5. Don't greif: >
+      Destruction, Vandalism of people's property and areas of interest is not allowed and can lead to severe punishments
+
+    6. Hacking: >
+      <TODO>
+    
+    7. Intentional Crashing / Glitch abuse: >
+      <TODO>
+
+    8. No Chunkloaders: >
+      <TODO>
