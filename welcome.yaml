@@ -35,3 +35,7 @@
     No Chunkloaders: >
       Chunkloaders can quite easily worsen the performance for the server in large quantities. That way we don't have to pick and choose whos chunkloaders are allowed, it is disallowed for everyone (as it would be unfair to other people wanting them)
 
+- type: rules
+  startingIndex: 11
+  rules:
+    Do not misuse accessibility tools: "[PluralKit](https://pluralkit.me) is here as aid for self identification purposes. Role-playing with PluralKit is not allowed."
