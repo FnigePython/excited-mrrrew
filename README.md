@@ -1,9 +1,9 @@
-# QuiltPlay
+# Excited-mrrrew
 Pain (Bread)
 
-You can download the modpack for MultiMC/Prism Launcher/ect. [here](./QuiltPlay.zip)
+You can download the modpack for MultiMC/Prism Launcher/ect. [here](./Excited-mrrrew.zip)
 
-If you want to set things up manually here's the command: `java -jar packwiz-installer-bootstrap.jar server "https://fnigepython.github.io/QuiltPlay/pack.toml"`
+If you want to set things up manually here's the command: `java -jar packwiz-installer-bootstrap.jar server "https://fnigepython.github.io/excited-mrrrew/pack.toml"`
 
 ---
 
