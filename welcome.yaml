@@ -4,7 +4,7 @@
 
   embeds:
     - title: Welcome to MinePlay
-      description: <:catstare:1043497784113901628>
+      description: Its just a minecraft server, nothing too special about it <:catstare:1043497784113901628>
       color: 0x469be3
 
 - type: text
@@ -30,7 +30,7 @@
     Hacking / Cheating is not allowed: >
       Modifying Minecraft (Via mods, resource packs etc.) to gain yourself an advantage is not allowed
 
-      If you aren't sure about whether its allowed or not, feel free to ask
+      If you aren't sure about what is allowed or not, feel free to ask
 
     No Chunkloaders: >
       Chunkloaders can quite easily worsen the performance for the server in large quantities. That way we don't have to pick and choose whos chunkloaders are allowed, it is disallowed for everyone (as it would be unfair to other people wanting them)
